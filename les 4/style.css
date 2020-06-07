@@ -1,0 +1,29 @@
+*{
+    background-color: lavender;
+}
+
+main {
+    margin: 0 auto;
+    width: 600px;
+}
+
+header {
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+p {
+    text-align: center;
+    background-color: whitesmoke;
+
+}section{
+    border-style: ridge;
+    margin-bottom: 5px;
+    border-color: cornflowerblue;
+    background-color: whitesmoke;
+}
