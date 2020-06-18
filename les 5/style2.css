@@ -1,0 +1,79 @@
+body,html{
+    margin 0px;
+    
+}
+
+#blokzwart {
+    height: 800px;
+    width: 800px;
+    background-color: black;
+}
+
+#blokjegeel1 {
+    height: 342px;
+    width: 342px;
+    background-color: yellow;
+    float: left;
+    margin-bottom: 8px;
+    
+}
+
+#blokjewit1 {
+    height: 200px;
+    width: 342px; 
+    background-color: white;
+    float: left;
+    margin-bottom: 8px;
+}
+
+#blokjerood1 {
+    height: 242px;
+    width: 342px;
+    background-color: red;
+    float: left;
+}
+
+#blokjeblauw1 {
+    height: 592px;
+    width: 242px;
+    background-color:blue;
+    float: left;
+    
+}
+#blokjerood2 {
+    height: 396px;
+    width: 200px;
+    background-color: red;
+    margin-bottom: 8px;
+}
+#blokjewit2 {
+    height: 200px;
+    width: 242px; 
+    background-color: white;
+    float: left;
+    margin-bottom: 8px;
+}
+#blokjegeel2 {
+    height: 396px;
+    width: 200px;
+    background-color: yellow;
+    float: left;
+}
+
+#sectie1 {
+    height: 800px;
+    width: 342px ;
+    float: left;
+}
+#sectie2 {
+    height: 800px;
+    width: 242px ;
+    float: left;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+#sectie3 {
+    height: 800px;
+    width: 200px ;
+    float: left;
+}
