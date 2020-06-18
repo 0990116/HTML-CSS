@@ -1,0 +1,33 @@
+body,html{
+    margin 0px;
+}
+
+#blokzwart{
+    height: 400px;
+    width: 606px;
+    background-color: black;
+}
+
+#blokjegeel {
+    height: 400px;
+    width: 200px;
+    background-color: yellow;
+    float: left;
+}
+
+#blokjewit {
+    height: 400px;
+    width: 250px;
+    background-color: white;
+    float: left;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+#blokjerood {
+    height: 400px;
+    width: 140px;
+    background-color: red;
+    float: left;
+}
+
