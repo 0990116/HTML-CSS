@@ -42,8 +42,9 @@ article{
 }
 .derde{
     padding-top: 50px;
+    width: 60%;
+    margin: 0 auto
  
-    text-align: center;
 }
 
 
@@ -62,4 +63,17 @@ article{
 
 .foto2{
     width: 100%;
+}
+
+li{
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
 }
