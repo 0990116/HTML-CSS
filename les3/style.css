@@ -1,0 +1,29 @@
+* {
+    color: ivory;
+}
+
+
+#soepstengel {
+    color: gray;
+}
+
+.pasta {
+
+    background-color: hotpink;
+}
+
+body {
+
+    background-color: indigo;
+}
+
+main {
+    margin: 0 auto;
+    width: 600px;
+}
+
+header {
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
