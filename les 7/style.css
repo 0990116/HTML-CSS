@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(165, 194, 248);
+}
+main{
+    margin: 0 auto;
+    width: 80%;
+    
+}
+article{
+    background-color: white;
+    margin-bottom: 50px;
+    height: 600px;
+}
+.eerste{
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-top: 220px;
+}
+
+.eerste2{
+    width: 50%;
+    float: left;
+}
+
+.blokrechts{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.blokonder {
+    text-align: center;
+}   
+
+.tweede{
+    margin: 0 auto;
+    width: 60%;
+    text-align: center;
+}
+#h3_tweede{
+    padding-top: 50px;
+}
+.derde{
+    padding-top: 50px;
+ 
+    text-align: center;
+}
+
+
+.vierde{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.vierde1{
+    height: auto;
+}
+
+.foto1{
+    width: 100%;
+}
+
+.foto2{
+    width: 100%;
+}
